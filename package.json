@@ -40,7 +40,7 @@
     "babel-preset-es2015-node": "^6.1.1",
     "babel-register": "^6.26.0",
     "mocha": "^5.2.0",
-    "nodemon": "^1.17.5"
+    "nodemon": "^1.18.9"
   },
   "optionalDependencies": {
     "bufferutil": "^3.0.5"
